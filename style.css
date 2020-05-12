@@ -1,16 +1,5 @@
 body{}
 
-	/*------------------------------------
-	  Typo
-	------------------------------------*/
-
-
-	h1{font-size: 48px;}
-	h2{font-size: 38px;}
-	h3{font-size: 28px;}
-
-
-
 .navbar-brand,
 .navbar-nav > li > a{
 	height: 80px;
